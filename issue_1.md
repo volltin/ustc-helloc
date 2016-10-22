@@ -1,6 +1,7 @@
 # Hello C (Issue 1)
 
 **Welcome to follow us on WeChat: USTC_CS**
+
 ![QRCODE](https://raw.githubusercontent.com/volltin/ustc-helloc/master/qrcode.jpg)
 
 ## Program 1 : Example of string copy 
