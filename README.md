@@ -1,2 +1,5 @@
-# ustc-helloc
-微信公众号 USTC_CS 优秀代码鉴赏栏目
+# USTC-Hello-C
+
+**Welcome to follow us on WeChat: USTC_CS**
+
+![QRCODE](https://raw.githubusercontent.com/volltin/ustc-helloc/master/qrcode.jpg)
